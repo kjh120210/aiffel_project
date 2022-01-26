@@ -63,7 +63,7 @@ main이 아닌 master에 올라가 있습니다.
       <a href="https://github.com/kjh120210/aiffel_project/blob/master/exploration_5/%5BE-05%5D%20%EB%82%98%EC%9D%98%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EC%BA%90%EA%B8%80%20.ipynb">EX5</a>
     </td>
     <td>
-      <label나의 첫 번째 캐글</label>
+      <label>나의 첫 번째 캐글</label>
     </td>
   </tr>
   <tr>
