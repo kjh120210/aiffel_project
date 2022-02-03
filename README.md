@@ -77,4 +77,15 @@ main이 아닌 master에 올라가 있습니다.
       <label>네이버 영화리뷰 감성분석 도전하기</label>
     </td>
   </tr>
+  <tr>
+     <td>
+      7
+    </td>
+    <td>
+      <a href="https://github.com/kjh120210/aiffel_project/blob/master/exploration_7/%5BE-07%5D%EC%9D%B8%EB%AC%BC%20%EB%AA%A8%EB%93%9C%20%EB%AC%B8%EC%A0%9C%EC%A0%90%20%EC%B0%BE%EA%B8%B0.ipynb">EX7</a>
+    </td>
+    <td>
+      <label>인물 모드 문제점 </label>
+    </td>
+  </tr>
 </table>
