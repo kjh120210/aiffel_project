@@ -88,4 +88,14 @@ main이 아닌 master에 올라가 있습니다.
       <label>인물 모드 문제점 </label>
     </td>
   </tr>
+  <td>
+      8
+    </td>
+    <td>
+      <a href="https://github.com/kjh120210/aiffel_project/blob/master/exploration_8/%5BE-08%5D%EB%89%B4%EC%8A%A4%20%EC%9A%94%EC%95%BD%EB%B4%87%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb">EX8</a>
+    </td>
+    <td>
+      <label>뉴스 요약봇 만들기</label>
+    </td>
+  </tr>
 </table>
