@@ -98,4 +98,15 @@ main이 아닌 master에 올라가 있습니다.
       <label>뉴스 요약봇 만들기</label>
     </td>
   </tr>
+  </tr>
+  <td>
+      9
+    </td>
+    <td>
+      <a href="https://github.com/kjh120210/aiffel_project/blob/master/exploration_9/%5BE-09%5D%20%ED%8F%90%EB%A0%B4%EC%95%84%20%EA%B8%B0%EB%8B%A4%EB%A0%A4%EB%9D%BC.ipynb">EX9</a>
+    </td>
+    <td>
+      <label>폐렴아 기다려</label>
+    </td>
+  </tr>
 </table>
